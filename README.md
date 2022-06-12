@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer</h3>
 
 <ul>
-  <li>Sometimes I create video content for <strong>YouTube</strong>.</li>
-  <li>💭Ask me about ✨<strong>PHP</strong>, ✨<strong>Laravel</strong>, ✨<strong>Vue JS</strong>.</li>
+  <li>🎥 Sometimes I create video content for <strong>YouTube</strong>.</li>
+  <li>💭 Ask me about ✨<strong>PHP</strong>, ✨<strong>Laravel</strong>, ✨<strong>Vue JS</strong>.</li>
   <li>📫 How to reach me ???, you can send hi on my <strong><a href="mailto:ahsanrafincse@gmail.com">Mail</a></strong>.</li>
 </ul>  
   
